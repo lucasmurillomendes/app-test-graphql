@@ -1,1 +1,1 @@
-# app-test-graphql
+# App Para estudos GrphQL + Hasura + Apollo
