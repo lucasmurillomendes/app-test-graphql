@@ -1,1 +1,1 @@
-# App Para estudos GrphQL + Hasura + Apollo
+# App Para estudos GraphQL + Hasura + Apollo
