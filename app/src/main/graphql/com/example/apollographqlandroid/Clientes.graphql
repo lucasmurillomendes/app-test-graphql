@@ -1,0 +1,21 @@
+query BuscaCliente {
+  Clientes{
+    id
+    nome
+    cpf
+    Pets{
+      id
+      nome
+      tipo
+    }
+  }
+}
+
+mutation Insere($nome:String, $cpf:String ) {
+  insert_Clientes(objects: [{nome: $nome, cpf: $cpf}]){
+    returning {
+          cpf
+          nome
+        }
+  }
+}

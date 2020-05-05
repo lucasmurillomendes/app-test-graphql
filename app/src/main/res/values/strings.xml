@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Teste Graphql</string>
+
+    <!-- ListarClientes Activity -->
+    <string name="title_listar_clientes">Listar Clientes</string>
+    <string name="cadastrar_cliente">Cadastrar Cliente</string>
+    <string name="cadastrar_pets">Cadastrar Pets</string>
+    <string name="cadastrar_servi_o">Cadastrar Serviço</string>
+</resources>
